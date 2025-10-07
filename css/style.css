@@ -476,7 +476,7 @@ body {
 }
 .timeline-list::before {
     content: "";
-    width: 1px;
+    width: 0px;
     height: 60%;
     background-color: black;
     position: absolute;
